@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Soumyadeep De
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Undergrad;Java_+C_+Python+Developer;Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Undergrad;Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 **🎓 B.Tech in CSE @ University of Engineering and Management, Kolkata | Class of 2027**
 
