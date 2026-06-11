@@ -6,7 +6,7 @@
 
 **🎓 B.Tech in CSE @ University of Engineering and Management, Kolkata | Class of 2027**
 
-I have a strong academic foundation (CGPA: 7.1) and a passion for continuous learning. I love building things with code, whether it's an Arduino-based radar system, a stunning scrollytelling portfolio, or elegant software architectures. I'm keen on exploring new technologies and contributing to impactful tech environments!
+I have a passion for continuous learning and building things with code—whether it's an Arduino-based radar system, a stunning scrollytelling portfolio, or elegant software architectures. I'm keen on exploring new technologies and contributing to impactful tech environments!
 
 </div>
 
